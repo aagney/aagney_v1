@@ -1,0 +1,52 @@
+h1 {text-align: center; font-size: 270%}
+p {text-align: center;  font-size: 220%; margin-left: 22vw; margin-right: 22vw}
+body{
+   background-image: url(landing.jpg);
+   background-repeat: no-repeat;
+  background-color: none;
+background-position: fixed;
+
+}
+
+.navbarNav{
+    color: transparent;
+    display: flex;
+    justify-content: space-between;
+    margin: 100;
+padding: 0;
+}
+u1{
+
+  margin-left: 100;
+  margin-right: 100;
+padding: 100;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+  border: none;
+  background-color: white;
+}
+a{
+
+  font-size: 130%;
+}
+ul {
+
+    padding: 2vh;
+display: flex;
+align: right;
+justify-content: space-between;
+list-style-type: none;
+}
+li{
+
+  align-content: end;
+}
+div{
+  align-content: end;
+
+}
+navbar-brand{
+
+  size=120%;
+}
